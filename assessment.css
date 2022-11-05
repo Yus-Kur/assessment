@@ -1,0 +1,31 @@
+body {
+    /*背景の色*/
+    background-color: #04a6eb;
+
+    /*文字の色*/
+    color: #fdffff;
+
+    width: 500px;
+
+    /* margin は境界線より 外側 の余白、padding は境界線より 内側 の余白*/
+    /* auto は自動調整*/
+    margin-right: auto;
+    margin-left: auto;
+}
+
+button {
+    /* margin は境界線より 外側 の余白、padding は境界線より 内側 の余白*/
+    padding: 5px 20px;
+
+    background-color: #337ab7;
+
+    color: #fdffff;
+
+    /*境界線を表示しない*/
+    border-style: none;
+}
+
+/*入力欄*/
+input {
+    height: 20px;
+}
