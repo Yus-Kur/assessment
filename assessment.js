@@ -100,7 +100,7 @@ const answers = [
 /**
  * 名前の文字列を渡すと診断結果を返す関数
  * @param {string} userName ユーザの名前
- * @return {string} 診断結果
+ * @return {string} 診断結果 
  */
 
 function assessment(userName) {
